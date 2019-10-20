@@ -7,4 +7,7 @@ I'm using Windows with Cmder
 Custom prompt for Cmder is [here][(https://github.com/thembones79/cmder-powerline-prompt)
 
 
+[here][(https://github.com/thembones79/cmder-powerline-prompt)
+
+
 
